@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/dharmeshrajodiya/dharmeshrajodiya/blob/main/coding-freak.gif">
 
-## 🙋‍♂️
+# 🙋‍♂️
 - 💻  Where Imagination Meets Innovation: Web Development Excellence:wink: ;
 
 - <img src="https://github.com/dharmeshrajodiya/dharmeshrajodiya/blob/main/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
